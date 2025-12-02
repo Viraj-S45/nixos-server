@@ -142,6 +142,7 @@
 
   networking.extraHosts = ''
   127.0.0.1 server.vaultwarden
+  127.0.0.1 server.coder
   127.0.0.1 server.uptimekuma
   127.0.0.1 server.homepage
   127.0.0.1 server.portainer
